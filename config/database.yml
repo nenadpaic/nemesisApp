@@ -23,17 +23,17 @@ development:
 test:
   adapter: mysql2
   encoding: utf8
-  database: nemesisApp_test
+  database: nemesis12
   pool: 5
-  username: root
-  password:
+  username: nemesis
+  password: poiu123321
   host: localhost
 
 production:
   adapter: mysql2
   encoding: utf8
-  database: nemesisApp_production
+  database: nemesis12
   pool: 5
-  username: root
-  password:
+  username: nemesis
+  password: poiu123321
   host: localhost
